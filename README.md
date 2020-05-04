@@ -1,4 +1,4 @@
-# parallelization-of-support-vector-regression
+# Parallelization of Support Vector Regression
 Python implementation of serial and parallel support vector regression
 
 The report on the project is contained in the root directory
